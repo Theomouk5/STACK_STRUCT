@@ -6,4 +6,9 @@ typedef enum {
     true
 }Bool;
 
+typedef struct StackElement {
+    int value;
+    struct StackElement* next;
+}StackElement, *Stack;
+
 #endif
