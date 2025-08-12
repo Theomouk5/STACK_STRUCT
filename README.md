@@ -1,4 +1,2 @@
 # STACK_STRUCT
-Create stack struct for c projects
-
-## but create a folder build !!!
+It's a Stack structure of int for C programms
