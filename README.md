@@ -1,2 +1,2 @@
 # STACK_STRUCT
-It's a Stack structure of int for C programms
+It's a Stack structure of int for C programs
