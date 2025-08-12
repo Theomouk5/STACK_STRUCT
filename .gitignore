@@ -11,6 +11,7 @@
 *.ilk
 *.map
 *.exp
+*.json
 
 # Precompiled Headers
 *.gch
@@ -53,3 +54,10 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+#folder
+build/
+bin/
+lib/
+.cache/
+.vscode/
