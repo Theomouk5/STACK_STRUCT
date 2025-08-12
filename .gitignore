@@ -58,4 +58,6 @@ dkms.conf
 #folder
 build/
 bin/
+lib/
+.cache/
 .vscode/
